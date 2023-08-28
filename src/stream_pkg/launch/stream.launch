@@ -1,0 +1,4 @@
+<launch>
+  <node name="steam_webcam" pkg="stream_pkg" type="image_pub.py" output="screen"/>
+  <node name="stream_node" pkg="stream_pkg" type="stream_server.py" output="screen"/>
+</launch>
