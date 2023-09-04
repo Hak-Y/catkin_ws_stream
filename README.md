@@ -8,7 +8,7 @@ First, Turn on stream_server.py in drone which is using ssh.
 
 Second, Verify whether image topic is subscribed or not.
 
-Thrid, Turn on stream_client.py in your computer.
+Third, Turn on stream_client.py in your computer.
 
 It is also run visual studio code, but if you want to use visual studio code, you must use virtual environment.
 
